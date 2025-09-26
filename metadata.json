@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Grocery Checklist",
+  "description": "An AI-powered application that takes your meal plans or raw shopping notes and automatically generates a categorized, easy-to-use grocery checklist using Gemini.",
+  "requestFramePermissions": []
+}
